@@ -1,0 +1,11 @@
+{
+  "name": "data_dump_server",
+  "version": "1.0.0",
+  "description": "Start this server and you'll be able to receive files on the server end in a folder named uploads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@warlock1437",
+  "license": "ISC"
+}
